@@ -1,4 +1,4 @@
-# Weather Website 🔥🔥
+# Netflix Website 🔥🔥
 > 
 
 Welcome to my Netflix Website! 🎉🚀 This website provides Movies, Web-Series.It is designed to complete my task given by Bharat Intern. 
